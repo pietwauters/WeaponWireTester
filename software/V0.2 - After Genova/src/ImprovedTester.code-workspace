@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "esp32scoringdeviceMqtt",
+			"path": "../../esp32scoringdeviceMqtt"
+		}
+	],
+	"settings": {}
+}
